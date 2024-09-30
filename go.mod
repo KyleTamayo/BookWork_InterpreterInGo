@@ -1,3 +1,3 @@
-module BookWork_InterpreterInGo
+module monkey
 
 go 1.22
